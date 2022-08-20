@@ -1,3 +1,0 @@
-This is newly created file.
-second line added via GUI.
-New Line inserted from local system.
